@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b615009b993a144688c066ae0e0889c, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  level: 5
+  x: 3
+  y: 3
+  SwipeCount: 10
+  cornersColor: 03000000020000000200000003000000
+  savedObjects:
+  - localpositon: {x: 1.0400565, y: 0.7382904, z: -1.0400122}
+    color: 2
+  - localpositon: {x: 0.000056549, y: 0.7382904, z: -1.0400122}
+    color: 2
+  - localpositon: {x: 0.52005655, y: 0.7382904, z: -1.0400122}
+    color: 2
+  - localpositon: {x: 1.0400565, y: 0.7382904, z: -0.5200123}
+    color: 2
+  - localpositon: {x: 1.0400565, y: 0.7382904, z: -0.000012315}
+    color: 2
+  - localpositon: {x: 1.0400565, y: 0.7382904, z: 0.51998764}
+    color: 2
+  - localpositon: {x: 1.0400565, y: 0.7382904, z: 1.0399877}
+    color: 2
+  - localpositon: {x: -0.5199434, y: 0.7382904, z: -1.0400122}
+    color: 2
+  - localpositon: {x: -0.5199434, y: 0.7382904, z: -0.000012315}
+    color: 2
+  - localpositon: {x: -0.5199434, y: 0.7382904, z: -0.5200123}
+    color: 2
+  - localpositon: {x: -0.5199434, y: 0.7382904, z: 0.51998764}
+    color: 2
+  - localpositon: {x: 0.000056549, y: 0.7382904, z: -0.000012315}
+    color: 2
+  - localpositon: {x: 0.000056549, y: 0.7382904, z: 0.51998764}
+    color: 2
+  - localpositon: {x: -1.0399435, y: 0.7382904, z: -1.0400122}
+    color: 3
+  - localpositon: {x: -1.0399435, y: 0.7382904, z: 1.0399877}
+    color: 3
+  - localpositon: {x: -1.0399435, y: 0.7382904, z: 0.51998764}
+    color: 3
+  - localpositon: {x: -1.0399435, y: 0.7382904, z: -0.000012315}
+    color: 3
+  - localpositon: {x: -1.0399435, y: 0.7382904, z: -0.5200123}
+    color: 3
+  - localpositon: {x: -0.5199434, y: 0.7382904, z: 1.0399877}
+    color: 3
+  - localpositon: {x: 0.52005655, y: 0.7382904, z: -0.000012315}
+    color: 3
+  - localpositon: {x: 0.52005655, y: 0.7382904, z: -0.5200123}
+    color: 3
+  - localpositon: {x: 0.000056549, y: 0.7382904, z: -0.5200123}
+    color: 3
+  - localpositon: {x: 0.52005655, y: 0.7382904, z: 0.51998764}
+    color: 3
+  - localpositon: {x: 0.52005655, y: 0.7382904, z: 1.0399877}
+    color: 3
+  - localpositon: {x: 0.000056549, y: 0.7382904, z: 1.0399877}
+    color: 3
