@@ -1,7 +1,7 @@
 ## Square-Sort
 Voodonun yapmış olduğu oyunun klonun kaynak dosyalarıdır.
 
-##  Kullandığım pattern'ler ve optimizasyon yöntemleri
+##  Kullandığım pattern'ler 
 
 1. Singelton 
 2. Command
